@@ -6,6 +6,7 @@ Assim como no Java o ponto de partida de uma aplicação escrita em Kotlin é a 
 fun main(){
 	//Main Function
 }
+```
 
 Note que não é necessário usar um array de String como o parâmetro como no Java
 
@@ -13,6 +14,7 @@ Note que não é necessário usar um array de String como o parâmetro como no J
 public static void main(String[] args){
 	//Main function on Java 
 }  
+```
 
 Em cada arquivo de código fonte somente uma função main pode existir o exemplo a seguir nem compilaria: 
 
@@ -29,6 +31,8 @@ fun main(){
 }
 
 ...
+
+```
 
   
 
