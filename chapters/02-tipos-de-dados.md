@@ -33,7 +33,7 @@ Long | 64 Bits |–9.223.372.036.854.775.808 a 9.223.372.036.854.775.807
 ## Ponto Flutuante
 Para valores de ponto flutuante o Kotlin reservou dois tipos `Float` e `Double`:
 
-Tipo|Tamanho em Bits|Bits Significantes|Bits Expoentes|Dígitos Decimais
+Tipo|Tamanho em Bits|Bits Significativos|Bits do Expoente|Dígitos Decimais
 ----|---------------|------------------|--------------|----------------
 Float | 32 | 24 | 8 | 6-7
 Double | 64 | 53 | 11 | 15-16  
