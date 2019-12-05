@@ -30,7 +30,7 @@ fun main(){
  // It's not compile
 }
 
-Restante do código 
+//Restante do código 
 ...
 
 ```
