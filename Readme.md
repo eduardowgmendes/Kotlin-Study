@@ -19,12 +19,12 @@ Este reposítório estará organizado em diretórios dividindo os capítulos e s
 	* Operações       
 
 2. Controle de Fluxo
-	* Controle de fluxo 'if else'
+	* Controle de fluxo `if else`
 	* Operadores - Fluxo de Decisão
-	* Operador 'Elvis'
-	* Controle de Fluxo - 'when'
-	* Controle de Fluxo - 'while'
-	* Controle de Fluxo - 'do while'
+	* Operador `Elvis`
+	* Controle de Fluxo - `when`
+	* Controle de Fluxo - `while`
+	* Controle de Fluxo - `do while`
 
 3. Mais conceitos 
 	* Conversão de valores 	
