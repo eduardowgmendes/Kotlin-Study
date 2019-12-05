@@ -23,7 +23,7 @@ O Android Studio oferece suporte de alto nível a Kotlin. Além disso, ele possu
 O Android KTX torna o desenvolvimento do Android com o Kotlin mais conciso, agradável e idiomático aproveitando os recursos da linguagem Kotlin. 
 
 ### SDK otimizado para Kotlin
-A partir do Android 9 (nível 28 da API), o Android SDK contém anotações de anulação para ajudar a evitar NullPointerExceptions. A documentação de referência da API também está disponível em Kotlin. 
+A partir do Android 9 (nível 28 da API), o Android SDK contém anotações de anulação para ajudar a evitar *NullPointerExceptions*. A documentação de referência da API também está disponível em Kotlin. 
  
 ## Como é o código Kotlin?
 
