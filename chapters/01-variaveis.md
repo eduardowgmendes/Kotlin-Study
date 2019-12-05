@@ -17,7 +17,7 @@ Use `var` para variáveis comuns.
 ```kotlin
 var firstName : String = "Eduardo"
 
-firstName = "Richard
+firstName = "Richard"
 
 ```
 
