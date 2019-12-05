@@ -21,12 +21,20 @@ Por possuir interoperabilidade com Java os tipos da linguagem Kotlin são basica
 * `String` 
 
 ## Inteiros 
-Assim como o Java o Kotlin possui quatro tipos para valores numéricos inteiros, cada um com suas capacidade:
+Assim como o Java o Kotlin possui quatro tipos para valores numéricos inteiros, cada um com suas capacidades específicas:
 
 Tipo |Tamanho em Bits|Valor Máximo 
------|-------------|--------------
+-----|---------|--------------
 Byte | 8 Bits  |-128 à 127 
 Short| 16 Bits |-32.768 a 32.767
 Int  | 32 Bits |–2.147.483.648 a 2.147.483.647
 Long | 64 Bits |–9.223.372.036.854.775.808 a 9.223.372.036.854.775.807
   
+## Ponto Flutuante
+Para valores de ponto flutuante o Kotlin reservou dois tipos `Float` e `Double`:
+
+Tipo|Tamanho em Bits|Bits Significantes|Bits Expoentes|Dígitos Decimais
+----|---------------|------------------|--------------|----------------
+Float | 32 | 24 | 8 | 6-7
+Double | 64 | 53 | 11 | 15-16  
+
