@@ -23,10 +23,10 @@ Por possuir interoperabilidade com Java os tipos da linguagem Kotlin são basica
 ## Inteiros 
 Assim como o Java o Kotlin possui quatro tipos para valores numéricos inteiros, cada um com suas capacidade:
 
-Tipo | Valor Máximo 
------|-------------
-Byte | -127 à 128 
-Short| -127 à 128
-Int  | -127 à 128
-Long | -127 à 128
+Tipo |Tamanho em Bits|Valor Máximo 
+-----|-------------|--------------
+Byte | 8 Bits  |-128 à 127 
+Short| 16 Bits |-32.768 a 32.767
+Int  | 32 Bits |–2.147.483.648 a 2.147.483.647
+Long | 64 Bits |–9.223.372.036.854.775.808 a 9.223.372.036.854.775.807
   
