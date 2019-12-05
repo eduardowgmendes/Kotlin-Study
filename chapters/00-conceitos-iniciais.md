@@ -29,6 +29,9 @@ A partir do Android 9 (nível 28 da API), o Android SDK contém anotações de a
 
 ![Code Sample Kotlin](https://raw.githubusercontent.com/eduardowgmendes/Kotlin-Study/master/images/code-sample-large.png)
 
+## O Kotlin é gratuito e aberto 
+O Kotlin é um projeto de código aberto e gratuito da licença do Apache 2.0. O desenvolvimento e distribuição como software gratuito são garantidos pela Fundação Kotlin. A escolha do Kotlin reafirma nosso compromisso com um ecossistema de desenvolvimento aberto à medida que expandimos a plataforma Android. Além disso, estamos ansiosos para ver a linguagem evoluir. 
+
 ### JVM 
 A linguagem Kotlin também faz uso da máquina virtual JVM que compila os arquivos com extensão .kt para bytecodes da mesma maneira que o Java.   
 
