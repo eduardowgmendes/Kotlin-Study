@@ -5,10 +5,10 @@ Segundo o Google o Kotlin é uma linguagem de programação moderna e modelada e
 ## Vantagens da linguagem 
 
 ### Moderno e expressivo
-Os recursos modernos da linguagem Kotlin permitem que você se concentre em expressar suas ideias e escrever menos código clichê. Dessa forma, também haverá menos código para testar e fazer manutenção.
+Os recursos modernos da linguagem Kotlin permitem que você se concentre em expressar suas ideias e escrever menos código clichê (*boilerplate code*). Dessa forma, também haverá menos código para testar e fazer manutenção.
 
 ### Código mais seguro 
-Melhore a qualidade do seu app com o Kotlin. Os tipos @Nullable e @NonNull são integrados ao sistema de tipos do Kotlin para ajudar você a evitar NullPointerExceptions. O Kotlin também conta com muitos outros recursos de linguagem para ajudar a evitar erros comuns de programação. 
+Melhore a qualidade do seu app com o Kotlin. Os tipos `@Nullable` e `@NonNull` são integrados ao sistema de tipos do Kotlin para ajudar você a evitar *NullPointerExceptions*. O Kotlin também conta com muitos outros recursos de linguagem para ajudar a evitar erros comuns de programação. 
 
 ### Interoperável 
 Chame código baseado em Java com o Kotlin ou chame o Kotlin com código baseado em Java. O Kotlin é completamente interoperável com a linguagem de programação Java. Portanto, é possível ter o quanto de Kotlin que você quiser no seu projeto. 
