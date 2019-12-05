@@ -22,8 +22,7 @@ firstName = "Richard"
 ```
 
 ## Inferência de Tipo
-A abordagem de Kotlin à inferência de tipos fornece concisão e segurança de tipos.
-Sendo assim é possível omitir na declaração de uma varíavel o seu tipo como no seguinte exemplo: 
+A abordagem de Kotlin à inferência de tipos fornece concisão e segurança de tipos. Sendo assim é possível omitir na declaração de uma varíavel o seu tipo como no seguinte exemplo: 
 
 ```kotlin 
 
