@@ -27,7 +27,7 @@ A partir do Android 9 (nível 28 da API), o Android SDK contém anotações de a
  
 ## Como é o código Kotlin?
 
-![Code Sample Kotlin] (/images/code-sample-large.svg)
+![Code Sample Kotlin] (images/code-sample-large.svg)
 
 ### JVM 
 A linguagem Kotlin também faz uso da máquina virtual JVM que compila os arquivos com extensão .kt para bytecodes da mesma maneira que o Java.   
