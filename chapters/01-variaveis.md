@@ -29,5 +29,6 @@ A abordagem de Kotlin à inferência de tipos fornece concisão e segurança de 
 var firstName = "Eduardo"
 
 ```
-Note que não foi declarado nenhum tipo de forma explícita e isso é válido pois o compilador verifica o tipo do valor que foi atribuído à variável e com base nesse tipo ele concluí que se trata de uma String.     
+Note que não foi declarado nenhum tipo de forma explícita e isso é válido pois o compilador verifica o tipo do valor que foi atribuído à variável e com base nesse tipo ele concluí que se trata de uma String.
+    
 
