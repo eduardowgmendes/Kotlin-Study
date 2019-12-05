@@ -9,9 +9,9 @@ Este reposítório estará organizado em diretórios dividindo os capítulos e s
 ### Fundamentos da Linguagem  
 
 1. Conceitos iniciais
-	* Variáveis 
-	* Tipos de Dados
-	* Variáveis mutáveis e imutáveis 
+	* [Variáveis](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/01-variaveis.md) 
+	* [Tipos de Dados](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/02-tipos-de-dados.md)
+	* [Variáveis mutáveis e imutáveis](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/01-variaveis.md#vari%C3%A1veis) 
 	* Formatação de Strings
 	* Funções 
 	* Funções em uma única linha 
