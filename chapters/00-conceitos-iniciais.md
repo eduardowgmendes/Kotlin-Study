@@ -4,7 +4,7 @@ Assim como no Java o ponto de partida de uma aplicação escrita em Kotlin é a 
 
 ```kotlin
 fun main(){
-	//Main Function
+ //Main Function
 }
 ```
 
@@ -12,7 +12,7 @@ Note que não é necessário usar um array de String como o parâmetro como no J
 
 ```java
 public static void main(String[] args){
-	//Main function on Java 
+ //Main function on Java 
 }  
 ```
 
@@ -23,11 +23,11 @@ var firstName = "Eduardo"
 var lastName = "Mendes"
 
 fun main(){
-	println(firstName + " " + lastName);
+ println(firstName + " " + lastName);
 }
 
 fun main(){
-	// It's not compile
+ // It's not compile
 }
 
 ...
