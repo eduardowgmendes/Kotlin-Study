@@ -27,7 +27,7 @@ fun main(){
 }
 
 fun main(){
-	
+	// It's not compile
 }
 
 ...
