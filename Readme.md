@@ -1,6 +1,6 @@
 ## Kotlin
  
-### Introdução
+### :coffee: Introdução
 A linguagem Kotlin tem se destacado no mercado graças à sua versatilidade e maneiras concisas de se escrever. Em comparação ao Java a linguagem possui algumas vantagens notáveis, sem falar na interoperabilidade com ele. Você pode começar um projeto em Java e continuar usando Kotlin que sem problema algum. 
 
 ### Organização do Repositório 
