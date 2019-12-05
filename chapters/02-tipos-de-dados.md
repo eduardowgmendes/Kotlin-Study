@@ -38,3 +38,16 @@ Tipo|Tamanho em Bits|Bits Significativos|Bits do Expoente|Dígitos Decimais
 Float | 32 | 24 | 8 | 6-7
 Double | 64 | 53 | 11 | 15-16  
 
+### Tipos Primitivos 
+Kotlin não possui tipos primitivos como o Java, portanto todos os tipos descritos acima são todos objetos e funcionam como as classes `Wrapper` do Java. Como todos os tipos descritos são objetos você pode invocar métodos referentes a eles como em: 
+
+```kotlin 
+
+var age : Int = 25
+
+age.dec() // Decrements the age value for 24     
+
+```
+
+A função `dec()` decrementa o valor atribuído de 25 para 24 conforme esperado. Note que a função foi invocada diretamente da variável `age`. 
+ 
