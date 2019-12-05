@@ -6,7 +6,6 @@ A linguagem Kotlin tem se destacado no mercado graças à sua versatilidade e ma
 ### Organização do Repositório 
 Este reposítório estará organizado em diretórios dividindo os capítulos e seções conforme for me aprofundando nos estudos dos conceitos primários da linguagem e suas características.
 
-## 1 - Conceitos
 ### Fundamentos da Linguagem  
 
 1. Conceitos iniciais
