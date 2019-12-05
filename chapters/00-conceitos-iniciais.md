@@ -13,7 +13,7 @@ Melhore a qualidade do seu app com o Kotlin. Os tipos `@Nullable` e `@NonNull` s
 ### Interoperável 
 Chame código baseado em Java com o Kotlin ou chame o Kotlin com código baseado em Java. O Kotlin é completamente interoperável com a linguagem de programação Java. Portanto, é possível ter o quanto de Kotlin que você quiser no seu projeto. 
 
-## Otimizado para Kotlin
+## Desenvolvimento Android Otimizado para Kotlin
 O Kotlin é voltado ao desenvolvimento de apps para Android.
 
 ### Android Studio
