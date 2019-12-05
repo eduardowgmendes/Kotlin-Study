@@ -4,7 +4,7 @@
 A linguagem Kotlin tem se destacado no mercado graças à sua versatilidade e maneiras concisas de se escrever menos e fazer muito mais. Em comparação ao Java a linguagem possui algumas vantagens notáveis, sem falar na interoperabilidade com ele. Você pode começar um projeto em Java e continuar usando Kotlin que sem problema algum.  
 
 ### Organização do Repositório 
-Este reposítório estará organizado em diretórios dividindo os capítulos e seções conforme for me aprofundando nos estudos dos conceitos primários da linguagem e suas características.
+Este reposítório estará organizado em capítulos e seções e conforme for me aprofundando nos estudos dos conceitos primários da linguagem e suas características estarei linkando os itens da lista abaixo com seus respectivos conteúdos.
 
 ### Fundamentos da Linguagem  
 
