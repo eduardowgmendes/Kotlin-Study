@@ -10,7 +10,7 @@ Este reposítório estará organizado em capítulos e seções e conforme for me
 
 1. Conceitos iniciais
 	* [Variáveis](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/01-variaveis.md#vari%C3%A1veis) 
-	* [Tipos de Dados](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/01-variaveis.md#vari%C3%A1veis)
+	* [Tipos de Dados](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/02-tipos-de-dados.md#tipos-de-dados)
 	* [Variáveis mutáveis e imutáveis](https://github.com/eduardowgmendes/kotlin-studies/blob/master/chapters/01-variaveis.md#vari%C3%A1veis) 
 	* Formatação de Strings
 	* Funções 
